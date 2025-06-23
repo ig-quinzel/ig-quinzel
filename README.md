@@ -15,10 +15,10 @@
 
 ## 📫 Contact Me
 - **Email**: nandanak267@gmail.com
-- **LinkedIn**: [linkedin.com/in/yourname]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/nandana-k-3193a8265/))
-- **HackerRank**: [hackerrank.com/yourusername]([https://www.hackerrank.com/yourusername](https://www.hackerrank.com/profile/nandanak267))  
-- **LeetCode**: [leetcode.com/yourusername](https://leetcode.com/u/Nandanak27/)
-- **GeeksforGeeks**: [geeksforgeeks.org/user/yourusername]([https://www.geeksforgeeks.org/user/yourusername](https://www.geeksforgeeks.org/user/nandan2ijq/))
+- **LinkedIn**: [linkedin.com/in/nandana-k-3193a8265/]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/nandana-k-3193a8265/))
+- **HackerRank**: [hackerrank.com/profile/nandanak267](https://www.hackerrank.com/profile/nandanak267) 
+- **LeetCode**: [leetcode.com/u/Nandanak27/](https://leetcode.com/u/Nandanak27/)
+- **GeeksforGeeks**: [geeksforgeeks.org/user/nandan2ijq/](https://www.geeksforgeeks.org/user/nandan2ijq/)
 
 ---
 
