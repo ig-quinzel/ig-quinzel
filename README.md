@@ -31,5 +31,3 @@
 
 ---
 
-## 📈 GitHub Stats (optional)
-![Nandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandana-k&show_icons=true&theme=radical)
