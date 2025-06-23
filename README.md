@@ -15,12 +15,14 @@
 
 ## 📫 Contact Me
 - **Email**: nandanak267@gmail.com
-- **LinkedIn**: [linkedin.com/in/nandana-k-3193a8265/]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/nandana-k-3193a8265/))
+- **LinkedIn**: [linkedin.com/in/nandana-k-3193a8265/](https://www.linkedin.com/in/nandana-k-3193a8265/)
 - **HackerRank**: [hackerrank.com/profile/nandanak267](https://www.hackerrank.com/profile/nandanak267) 
 - **LeetCode**: [leetcode.com/u/Nandanak27/](https://leetcode.com/u/Nandanak27/)
 - **GeeksforGeeks**: [geeksforgeeks.org/user/nandan2ijq/](https://www.geeksforgeeks.org/user/nandan2ijq/)
 
 ---
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight)
 
 
 ## 🧠 Languages Used in My Projects
