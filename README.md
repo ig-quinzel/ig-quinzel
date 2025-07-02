@@ -42,7 +42,7 @@
 
 ---
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight&cache_bust=12345)
 
 
 ---
