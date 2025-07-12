@@ -42,14 +42,14 @@
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" style="border-radius: 50%;" />
-  <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask" width="40" style="border-radius: 50%;" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-pandas-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="Pandas" width="40" style="border-radius: 50%;" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-numpy-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="NumPy" width="40" style="border-radius: 50%;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" style="border-radius: 50%; background: white;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" style="border-radius: 50%; background: white;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" style="border-radius: 50%; background: white;" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" style="border-radius: 50%; background: #FFD21F;" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40" style="border-radius: 50%;" />
-  <img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter" width="40" style="border-radius: 50%;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" style="border-radius: 50%; background: white;" />
   <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="40" style="border-radius: 50%;" />
 </p>
