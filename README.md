@@ -15,11 +15,26 @@
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandanak267@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandana-k-3193a8265/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nandanak267)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Nandanak27/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00FF00?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/nandan2ijq/)
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:nandanak267@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email" width="40" style="border-radius: 50%;" />
+  </a>
+  <a href="https://www.linkedin.com/in/nandana-k-3193a8265/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin" width="40" style="border-radius: 50%;" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nandanak267" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="hackerrank" width="40" style="border-radius: 50%;" />
+  </a>
+  <a href="https://leetcode.com/u/Nandanak27/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="leetcode" width="40" style="border-radius: 50%;" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/nandan2ijq/" target="_blank">
+    <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="gfg" width="40" style="border-radius: 50%;" />
+  </a>
+</p>
+
 
 ---
 ## 🛠️ Languages & Tools
