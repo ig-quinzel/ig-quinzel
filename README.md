@@ -15,8 +15,6 @@
 
 ## 📫 Contact Me
 
-## 📫 Contact Me
-
 <p align="left">
   <a href="mailto:nandanak267@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email" width="40" style="border-radius: 50%;" />
@@ -38,23 +36,23 @@
 
 ---
 ## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-pandas-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="Pandas" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-numpy-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="NumPy" width="40" style="border-radius: 50%;" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="40" style="border-radius: 50%; background: #FFD21F;" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/jupyter.png" alt="Jupyter" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" width="40" style="border-radius: 50%;" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="40" style="border-radius: 50%;" />
+</p>
 ---
 ## 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight&cache_bust=12345)
