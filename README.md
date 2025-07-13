@@ -1,4 +1,4 @@
-# 👩‍💻 Nandana K
+# 👩‍💻 Hi, I'm [Nandana K](https://portfolio-website-nandana-ks-projects-b98afcd9.vercel.app/)
 
 🎓 Data Science & AI/ML Enthusiast | 💡 Tech Innovator
 
