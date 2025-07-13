@@ -6,10 +6,10 @@
 
 ## 🛠️ Technical Skills
 - **Languages**: Python, Java, C, R
-- **Web**: HTML, CSS, React, Node.js
-- **AI/ML**: scikit-learn, TensorFlow, XGBoost, Pandas
+- **Web**: HTML5, CSS3, javascript 
+- **AI/ML**: scikit-learn, XGBoost, Pandas, hugging face transformers
 - **Databases**: MySQL
-- **Tools**: Git, VS Code, Jupyter
+- **Tools**: Github, VS Code, Jupyter,Figma, Photoshop
 
 ---
 
