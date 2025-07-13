@@ -1,6 +1,6 @@
 # 👩‍💻 Nandana K
 
-🎓 Data Science & AI Enthusiast | 💡 Tech Innovator
+🎓 Data Science & AI/ML Enthusiast | 💡 Tech Innovator
 
 ---
 
@@ -36,6 +36,7 @@
 
 ---
 ## 🛠️ Languages & Tools
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" style="border-radius: 50%;" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="40" style="border-radius: 50%;" />
@@ -55,8 +56,7 @@
 </p>
 ---
 ## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight&cache_bust=12345)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-quinzel&layout=compact&theme=tokyonight&border_radius=10&hide_progress=false&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
